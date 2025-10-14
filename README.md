@@ -18,4 +18,5 @@ The project explores relationships between **property size**, **sale price**, an
 
 ## Links
 - 🔗 **Webpage (Google Sites)**: [Your Published Project Link Here]
-- 💻 **View Notebook in Colab**: [Link automatically added by Colab]
+- 💻 **View Notebook in Colab**: [[Link automatically added by Colab](https://colab.research.google.com/drive/1ZhIsGQgMQYwLHBKH2n7phu8N9lDlGYlQ?usp=sharing)]
+- nyc_property_sales.csv[NYC Property Sale](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales/data)
