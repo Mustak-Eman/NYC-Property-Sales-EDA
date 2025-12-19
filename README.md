@@ -47,4 +47,4 @@ The work is organized as milestone-style sections in the notebook.
 
 ## Links
 - 🔗 Project Webpage (Google Sites): **[Add your published link here]**
-- 💻 Open in Colab: **[Add your Colab link here]**
+- 💻 Open in Colab: **[(https://colab.research.google.com/drive/1ZhIsGQgMQYwLHBKH2n7phu8N9lDlGYlQ?usp=sharing)]**
